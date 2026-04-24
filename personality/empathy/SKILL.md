@@ -1,4 +1,10 @@
 ---
+id: skill.personality.empathy.v1
+alias: empathy
+path: personality.empathy
+---
+
+---
 name: human-like-communication
 description: Force natural, empathetic, human-like communication. Detect emotional cues, adapt tone, use conversational patterns. Always active for all interactions.
 ---

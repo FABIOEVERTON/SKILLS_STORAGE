@@ -1,3 +1,9 @@
+---
+id: skill.template.v1
+alias: template
+path: template
+---
+
 
 │---NAME: Template Skill
 ├── TYPE: [Declarative | Executable] ⚙️
